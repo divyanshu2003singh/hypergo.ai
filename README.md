@@ -18,8 +18,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/stock-market-api.git
-   cd stock-market-api
+   git clone https://github.com/divyanshu2003singh/hypergo.ai.git
+   cd hypergo.ai
    ```
 
 2. **Install dependencies:**
@@ -35,13 +35,13 @@
 4. **Download and process Bhavcopy data:**
 
    ```bash
-   node main.js
+   nodemon main.js
    ```
 
 5. **Start the API server:**
 
    ```bash
-   node main.js
+   nodemon main.js
    ```
 
    (Server runs on http://localhost:3000 by default)
@@ -59,10 +59,6 @@
 
 We welcome contributions! Please fork the repository and create a pull request. Issues and feature requests are also appreciated.
 
-### Extras:
-
-* **Postman collection included:** Import it for easy API testing.
-* **Detailed documentation:** Coming soon!
 
 
 ** Happy stock market exploring!**
