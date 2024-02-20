@@ -6,7 +6,7 @@
 
 * Download and process Bhavcopy data
 * Store and retrieve stock information in MongoDB
-* API routes for:
+* API routes for 
     * Top 10 stocks
     * Stock search by name
     * Stock price history 
